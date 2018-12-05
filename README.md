@@ -1,0 +1,2 @@
+# FF82_GACHI_bot
+FF82_GACHI_bot
